@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="enter_you_e_mail">Enter you e-mail</string>
+    <string name="enter_your_password">Enter your Password</string>
+</resources>
